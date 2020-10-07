@@ -1,1 +1,2 @@
-web: node index.js
+Web: node index.js
+Worker: echo Lolel
