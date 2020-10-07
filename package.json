@@ -1,0 +1,13 @@
+{
+  "name": "pro-smasher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mforoud86",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "2.1.1"
+  }
+}
